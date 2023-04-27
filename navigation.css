@@ -1,0 +1,19 @@
+.loo{
+    text-align:center;
+    font-size:60px;
+}
+a{
+text-decoration:none;
+}
+body{
+    background:linear-gradient(rgb(212, 29, 59),white,white);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.pic{
+    background-blend-mode:darken;
+}
+#m1{
+    font-size:50px;
+    color:darkslategray
+}

@@ -1,0 +1,84 @@
+.private{
+    color:brown;
+    text-align:center;
+    font-size:100px;
+}
+.poll{
+    color:rgb(93, 123, 161);
+    font-size:30px;
+
+}
+.pol{
+    color:rgb(50, 50, 155);
+    font-size:40px;
+}
+.oe{
+    color:rgb(93, 123, 161);
+    font-size: 30px;
+}
+.r{
+color:rgb(50, 50, 155);
+font-size:40px;
+}
+.pr{
+    color:rgb(93, 123, 161);
+    font-size: 30px;
+}
+.re{
+    color:purple;
+font-size:40px;
+}
+.ree{
+    color:rgb(226, 44, 19);
+    font-size: 30px;
+}
+.red{
+    color:purple;
+font-size:40px;
+}
+.reds{
+    color:rgb(226, 44, 19);
+    font-size:30px;
+}
+.ref{
+    color:purple;
+font-size:40px;
+}
+.refs{
+    color:rgb(226, 44, 19);
+    font-size:30px;
+}
+.rep{
+    color:purple;
+font-size:40px;
+}
+.reps{
+    color:rgb(226, 44, 19);
+    font-size:30px;
+}
+.rec{
+    color:purple;
+font-size:40px;
+}
+.recs{
+    color:rgb(226, 44, 19);
+    font-size:30px;
+}
+.gra{
+    font-style: italic;
+    color:blueviolet;
+    font-size:40px;
+}
+.pra{
+    font-size:30px;
+}
+.pol{
+    font-style: italic;
+    color:blueviolet;
+    font-size:40px;
+}
+body{
+    background-image:linear-gradient(pink,rgb(150, 228, 150));
+    background-repeat:no-repeat;
+    background-size: cover;
+}
